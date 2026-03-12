@@ -1,74 +1,59 @@
 # Softbreak
 
-Çoğu yazılım kursu sana kod yazmayı öğretir.
+Yazılım öğrenmek ile yazılım üretmek arasında büyük bir boşluk var.
 
-Biz farklı bir şey öğretiyoruz: **üretim disiplinini.**
+Birçok geliştirici kurs bitirir — ama ilk gerçek ekibine girdiğinde  
+sprint nedir bilmez, PR nasıl açılır bilmez, code review kültürü nedir bilmez.
 
-Gerçek yazılım ekiplerinde kod yazmak yetmez.  
-Issue açman, branch yönetmen, PR hazırlaman, review almanı gerekir.  
-Sprint içinde çalışman, tıkandığında çözüm üretmen gerekir.
+**Bu boşluğu kapatmak için varız.**
 
-Bu alışkanlıklar kurs videosundan değil, **yaparak** kazanılır.
+---
 
-Softbreak tam da bu boşluğu kapatmak için kuruldu.
+## Ne Öğretiyoruz
+
+Kod yazmayı değil.
+
+Yazılım ekiplerinde nasıl üretileceğini:
+
+- Görev al, issue'ya dönüştür
+- Branch aç, kodunu yaz
+- PR hazırla, review iste
+- Geri bildirimi işle, merge et
+- Bir sonraki sprint'e geç
+
+Bu döngüyü tekrar tekrar yaşayarak kazanılan şey: **üretim disiplini.**
 
 ---
 
 ## STAR Program
 
-**S**print · **T**ask · **A**gile · **R**eview
+Sprint · Task · Agile · Review
 
-STAR, yazılım geliştirmeyi gerçek bir üretim sürecine dönüştüren eğitim programıdır.
+Gerçek bir yazılım ekibinin çalışma ritmi içinde,  
+mentor eşliğinde, GitHub üzerinde yürütülen bir eğitim programı.
 
-Katılımcılar bir yazılım ekibinin ritmine girer:
+Her hafta sprint. Her sprint teslim. Her teslim sonrası review.
 
-```
-Issue aç  →  Branch oluştur  →  Kod yaz  →  PR aç  →  Review al  →  Merge et
-```
-
-Her hafta bir sprint. Her sprint bir teslim.  
-Mentor eşliğinde, ekip içinde, gerçek bir GitHub organizasyonunda.
-
-### Paketler
-
-| Program | Süre | Odak |
+| | Başlangıç | Geliştirici |
 |---|---|---|
-| Başlangıç | 4 hafta | Bireysel üretim becerisi |
-| Geliştirici | 12 hafta | Takım üretimi + mezuniyet projesi |
+| **Süre** | 4 hafta | 12 hafta |
+| **Odak** | Bireysel üretim becerisi | Takım üretimi + mezuniyet projesi |
+| **Kapasite** | 6–15 kişi | 7–15 kişi |
 
 ---
 
-## Neden Softbreak?
+## Bu Organizasyon
 
-Yazılım öğrenmek ile yazılım üretmek arasında ciddi bir uçurum var.
+Bu GitHub organizasyonu Softbreak'in eğitim altyapısını barındırır.
 
-Pek çok geliştirici eğitimini tamamlar, ama ilk gerçek ekibine girdiğinde  
-sprint disiplinini, code review kültürünü, branch yönetimini bilmez.
+Burada:
 
-Softbreak bu uçurumu kapatır.
-
-Öğrenmek değil — **üretmek.**  
-İzlemek değil — **yapmak.**  
-Teknik bilgi değil — **üretim kası.**
-
----
-
-## Bu Repolar Hakkında
-
-Bu organizasyon Softbreak'in eğitim altyapısını barındırır.
-
-Burada bulacakların:
-
-- STAR program cohort repoları
-- Referans implementasyonlar (.NET, C#, EF Core, Web API)
-- Sprint ve PR workflow örnekleri
+- STAR cohort repoları
+- Referans implementasyonlar (.NET · C# · EF Core · Web API · Mimari Desenler)
 - Eğitim materyalleri
 
 ---
 
 ## İletişim
 
-🌐 [softbreak.net](https://softbreak.net)  
-📧 [info@softbreak.net](mailto:info@softbreak.net)  
-📺 [YouTube @Softbreak](https://youtube.com/@Softbreak)  
-💼 [LinkedIn](https://linkedin.com/company/softbreak)
+🌐 [softbreak.net](https://softbreak.net) · 📺 [YouTube](https://youtube.com/@Softbreak) · 💼 [LinkedIn](https://linkedin.com/company/softbreak) · 📧 [info@softbreak.net](mailto:info@softbreak.net)
